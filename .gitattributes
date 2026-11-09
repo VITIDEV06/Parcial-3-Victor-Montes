@@ -1,0 +1,17 @@
+# Normaliza los finales de línea y evita falsos cambios entre Windows y otros sistemas
+* text=auto
+
+*.cs      text diff=csharp
+*.csproj  text eol=crlf
+*.slnx    text eol=crlf
+*.sln     text eol=crlf
+*.resx    text eol=crlf
+*.md      text diff=markdown
+
+# Archivos binarios
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.db  binary

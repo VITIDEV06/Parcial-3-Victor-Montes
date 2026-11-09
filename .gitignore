@@ -1,0 +1,71 @@
+# ===== Compilaciones =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+publish/
+*.dll
+*.exe
+*.pdb
+*.nupkg
+!**/docs/**/*.png
+
+# ===== Visual Studio / IDEs =====
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.ncrunch*
+_ReSharper*/
+*.DotSettings.user
+
+# ===== NuGet =====
+packages/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+
+# ===== Pruebas y cobertura =====
+TestResults/
+*.trx
+*.coverage
+coverage*.xml
+
+# ===== Logs y temporales =====
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+
+# ===== Bases de datos locales (se regeneran al ejecutar) =====
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# ===== Archivos sensibles =====
+.env
+.env.*
+!.env.example
+*.pfx
+*.snk
+*.pem
+*.key
+secrets.json
+appsettings.*.local.json
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
