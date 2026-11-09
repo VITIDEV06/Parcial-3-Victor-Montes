@@ -19,6 +19,17 @@
 
 ---
 
+## 👤 Información académica
+
+| | |
+| :-- | :-- |
+| 👨‍💻 **Autor** | Victor Montes |
+| 📚 **Materia** | Herramientas de Programación Aplicada 3 |
+| 📅 **Fecha** | 9 de noviembre de 2026 |
+| 📝 **Entrega** | Parcial #3 |
+
+---
+
 ## 📑 Índice
 
 1. [Resumen de proyectos](#️-resumen-de-proyectos)
@@ -282,4 +293,4 @@ Parcial #3/
     └── Servicios/UsuarioService.cs
 ```
 
-<p align="center"><sub>👨‍💻 Victor Montes · HPA 3 · Semestre VI</sub></p>
+<p align="center"><sub>👨‍💻 Victor Montes · Herramientas de Programación Aplicada 3 · 9 de noviembre de 2026</sub></p>
